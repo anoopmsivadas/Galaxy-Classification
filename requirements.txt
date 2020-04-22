@@ -3,6 +3,6 @@ Keras==2.3.1
 numpy==1.18.2
 pandas==1.0.3
 scikit-image==0.16.2
-tensorflow==1.14.0
+tensorflow
 Werkzeug==1.0.1
 
